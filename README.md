@@ -5,7 +5,9 @@ index.php is the main file which is to be executed.
 
 Technologies used - 
 Front-end : HTML, CSS, Bootstrap & Javascript 
+
 Back-end : PHP 
+
 Database : MySQL   
 
 Database has two Tables- "user" and "transaction" 
