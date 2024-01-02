@@ -3,6 +3,7 @@ The database has 10 random users and we can easily transfer money between all of
 
 
 Technologies used - 
+
 Front-end : HTML, CSS, Bootstrap & Javascript 
 
 Back-end : PHP 
