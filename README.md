@@ -1,7 +1,6 @@
 Simple Banking System  
 The database has 10 random users and we can easily transfer money between all of them. We may also create more users.
 
-index.php is the main file which is to be executed.
 
 Technologies used - 
 Front-end : HTML, CSS, Bootstrap & Javascript 
